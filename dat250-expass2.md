@@ -1,4 +1,4 @@
-#technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved
+# technical problems
 
 There was no javax.persistence_*.jar in the eclipseLink zip file i downloaded. Also i had the same problem as someone else in the chat with: 
 Exception in thread "main" javax.persistence.PersistenceException: No Persistence provider for EntityManager named todos
@@ -8,7 +8,7 @@ at de.vogella.jpa.simple.main.Main.main(Main.java:17)
 
 I got to set up the basic maven project.
 
-#links to experiment 1 and 2:
+# links to experiment 1 and 2:
 
 1. https://github.com/EvenSandvik/DAT250STE1/tree/master/ex2/jpa-basic
 
