@@ -17,4 +17,5 @@ I got to set up the basic maven project.
 I was able to inspect the databases in a database workbench:
 
 ![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png?raw=true "Optional Title")
-https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB2.png
+![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB2.png?raw=true "Optional Title")
+
