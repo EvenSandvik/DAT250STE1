@@ -1,13 +1,19 @@
-In particular, you should write about:
+#technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved
 
-technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved
+There was no javax.persistence_*.jar in the eclipseLink zip file i downloaded. Also i had the same problem as someone else in the chat with: 
+Exception in thread "main" javax.persistence.PersistenceException: No Persistence provider for EntityManager named todos
+at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:84)
+at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:54)
+at de.vogella.jpa.simple.main.Main.main(Main.java:17)
 
-There was no javax.persistence_*.jar in the eclipseLink zip file i downloaded. 
+I got to set up the basic maven project.
 
+#links to experiment 1 and 2:
 
+1. https://github.com/EvenSandvik/DAT250STE1/tree/master/ex2/jpa-basic
 
-a link to your code for experiment 1 and 2 above
+2. https://github.com/EvenSandvik/DAT250STE1/tree/master/ex2/credit-card
 
-an explanation of how you inspected the database tables and what tables were created. For the latter you may provide screenshots.
-
-any pending issues with this assignment which you did not manage to solve
+I was able to inspect the databases in a database workbench:
+https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png
+https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB2.png
