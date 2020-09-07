@@ -15,5 +15,6 @@ I got to set up the basic maven project.
 2. https://github.com/EvenSandvik/DAT250STE1/tree/master/ex2/credit-card
 
 I was able to inspect the databases in a database workbench:
-https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png?raw=true
+
+![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png?raw=true "Optional Title")
 https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB2.png
