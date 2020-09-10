@@ -31,7 +31,7 @@ Screenshot for validation:
 
 ![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex3/ex3ex2.2.png?raw=true "Optional Title")
 
-My mapfuntion
+//My mapfuntion
 
 // lets you see how many items a customer has. 
 
@@ -44,7 +44,7 @@ var mapFunction3 = function()
 }; 
 
 
-My ReduceFunction
+//My ReduceFunction
 
 var reduceFunction3 = function(keyCustId, items) {
 
@@ -53,7 +53,7 @@ var reduceFunction3 = function(keyCustId, items) {
 };
 
 
-My Mapreduce
+//My Mapreduce
 
 db.orders.mapReduce(
 
