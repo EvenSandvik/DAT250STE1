@@ -4,7 +4,7 @@
 
 Screenshot for validation:
 
-##Screenshots
+## Screenshots
 ### Screenshots experiment 1:
 
 1. Insert and query
