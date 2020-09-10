@@ -43,6 +43,7 @@ var mapFunction3 = function()
    
 }; 
 
+
 My ReduceFunction
 
 var reduceFunction3 = function(keyCustId, items) {
@@ -50,6 +51,7 @@ var reduceFunction3 = function(keyCustId, items) {
    return Array.sum(items.length);
    
 };
+
 
 My Mapreduce
 
