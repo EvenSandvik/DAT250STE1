@@ -1,11 +1,11 @@
-## Expass 3
+# Expass 3
 
-# Technical problems
+## Technical problems
 
 Screenshot for validation:
 
-
-Screenshots experiment 1:
+##Screenshots
+### Screenshots experiment 1:
 
 1. Insert and query
 
@@ -13,7 +13,7 @@ Screenshots experiment 1:
 
 3. Delete
 
-Screenshots experiment 2:
+### Screenshots experiment 2:
 
 Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
 
