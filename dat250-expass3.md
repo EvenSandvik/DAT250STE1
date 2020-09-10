@@ -8,12 +8,15 @@ Screenshot for validation:
 ### Screenshots experiment 1:
 
 1. Insert and query
+
 ![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png?raw=true "Optional Title")
 
 2. Update
+
 ![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png?raw=true "Optional Title")
 
 3. Delete
+
 ![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png?raw=true "Optional Title")
 
 ### Screenshots experiment 2:
