@@ -2,7 +2,7 @@
 
 ## Technical problems
 
-Screenshot for validation:
+Minor inconveniences only
 
 ## Screenshots
 ### Validation
