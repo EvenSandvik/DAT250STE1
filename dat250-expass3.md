@@ -27,9 +27,9 @@ Screenshot for validation:
 
 #### Tutorial
 
-![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex3/ex3ex1.4.png?raw=true "Optional Title")
+![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex3/ex3ex2.1.png?raw=true "Optional Title")
 
-![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex3/ex3ex1.4.png?raw=true "Optional Title")
+![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex3/ex3ex2.2.png?raw=true "Optional Title")
 
 Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
 
