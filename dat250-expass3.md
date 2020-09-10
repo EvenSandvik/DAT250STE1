@@ -7,21 +7,21 @@ Screenshot for validation:
 ## Screenshots
 ### Validation
 
-![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png?raw=true "Optional Title")
+![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex3/validation.png?raw=true "Optional Title")
 
 ### Screenshots experiment 1:
 
 1. Insert and query
 
-![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png?raw=true "Optional Title")
+![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex3/ex3ex1.1.png?raw=true "Optional Title")
 
 2. Update
 
-![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png?raw=true "Optional Title")
+![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex3/ex3ex1.3.png?raw=true "Optional Title")
 
 3. Delete
 
-![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex2/DB1.png?raw=true "Optional Title")
+![Alt text](https://github.com/EvenSandvik/DAT250STE1/blob/master/ex3/ex3ex1.4.png?raw=true "Optional Title")
 
 ### Screenshots experiment 2:
 
